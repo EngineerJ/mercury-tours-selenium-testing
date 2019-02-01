@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/JUnit-Libraries/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/JUnit-Libraries/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/JUnit-Libraries/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/Selenium-Libraries/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/41889/eclipse-workspace/mercury-tours-selenium-testing/libs/TestNG-Library/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="libs/JUnit-Libraries/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/JUnit-Libraries/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/JUnit-Libraries/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="libs/Selenium-Libraries/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="libs/TestNG-Library/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,1 @@
+java -cp bin;libs\JUnit-Libraries\*;libs\Selenium-Libraries\*;libs\TestNG-Library\*  org.testng.TestNG testng.xml
